@@ -1,0 +1,153 @@
+body {
+color: #202020;
+   margin: 0px;
+   text-align: center;
+   font-family: "Arial Black", "Helvetica", Arial, sans-serif;
+   background-color: #BEBEBE;
+
+}
+p{
+  line-height:2;
+}
+.mount{
+height: 70%;
+width: 70%;
+padding-bottom: 20%;
+
+}
+.img {
+    width:  25%;
+    background-size: cover;
+    float:left;
+    padding-right: 30px;
+  }
+  .leaderimg{
+  width: 20%;
+    float:right;
+    padding-left: 30px;
+
+  }
+.imgprof {
+  padding-top: 20%;
+    width:  400px;
+    height: 400px;
+    background-size: cover;
+  }
+
+
+h2{
+  margin-top: 66px;
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+  text-align: center;
+}
+div {
+  background-color: transparent;
+
+}
+.topContainer{
+
+  background-color: transparent;
+position: relative;
+padding-top: 100px;
+
+}
+
+.middleContainer{
+  margin: 100px 0;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:40px
+}
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom:300px;
+
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+
+}
+a:hover {
+  color: #EAF6F6;
+}
+.skill-row{
+margin: 100px auto 100px auto;
+  width: 50%;
+  height:50%;
+  text-align: left;
+  line-height:2;
+
+}
+.bottom-container{
+  height: 15%;
+  margin-top: 5%;
+  background-color: #66BFBF;
+}
+.Linked-In{
+  height: 3%;
+  width: 3%;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  width: 4%;
+  border-bottom: none;
+margin: 100px auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.Softskills{
+  margin-top: 10px;
+  text-align: center;
+}
+.contact-message{
+  text-align: center;
+
+}
+.skillsnCharacter{
+  text-align: center;
+}
+.Education{
+  text-align: center;
+}
