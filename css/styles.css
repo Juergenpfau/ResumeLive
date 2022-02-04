@@ -12,8 +12,12 @@ p{
 .mount{
 height: 70%;
 width: 70%;
-padding-bottom: 20%;
+padding-bottom: 20px;
 
+}
+.smally{
+  height: 60px;
+  width: 100px;
 }
 .img {
     width:  25%;
@@ -28,9 +32,9 @@ padding-bottom: 20%;
 
   }
 .imgprof {
-  padding-top: 20%;
-    width:  400px;
-    height: 400px;
+  padding-top: 10%;
+    width:  20%;
+    height: 20%;
     background-size: cover;
   }
 
@@ -38,7 +42,7 @@ padding-bottom: 20%;
 h2{
   margin-top: 66px;
   font-weight: normal;
-  color: #66BFBF;
+  color: #2C3333;
   font-size: 2.5em;
   padding-bottom: 10px;
   text-align: center;
